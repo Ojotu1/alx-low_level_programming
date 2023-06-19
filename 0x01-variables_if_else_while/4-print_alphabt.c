@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - print the last digit of the number stored in the variable n.
+ *main  - Write a program that prints the alphabet except e and q in lowercase, followed by a new line
  *
  * Return: Always 0 (Success)
  */

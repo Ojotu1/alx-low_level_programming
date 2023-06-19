@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - print the last digit of the number stored in the variable n.
+ *main - Write a program that prints the alphabet in lowercase, and then in uppercase
  *
  * Return: Always 0 (Success)
  */
