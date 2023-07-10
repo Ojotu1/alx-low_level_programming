@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	int x, y, len, total;
 	char *ptr;
 
-	if (argc< 2)
+	if (argc < 2)
 		printf("0\n");
 	else
 	{
@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 				if (isdigit(*(ptr + y)) == 0)
 				{
 					printf("Error\n");
-					return(1);
+					return (1);
 				}
 			}
 			total += atoi(argv[x]);
